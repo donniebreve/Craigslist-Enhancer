@@ -1,6 +1,5 @@
 // ==UserScript==
 // @name            Craigslist Enhancer
-// @namespace       lecapitan
 // @description     Let's you search multiple cities at the same time and presents results in a clean and concise fashion.
 // @include         http://*.craigslist.org/*
 // @grant           GM_getValue
